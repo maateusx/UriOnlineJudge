@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1428620590 source:c:\users\mateus\documents\programas\uri\1025cpp\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1401324601 source:c:\users\mateus\documents\programas\new folder\soma\main.c
+	<stdio.h>
+	<stdlib.h>
+

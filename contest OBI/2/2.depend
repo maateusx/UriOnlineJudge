@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1431833761 source:c:\users\mateus\documents\programas\2\main.c
+	<stdio.h>
+	<stdlib.h>
+
